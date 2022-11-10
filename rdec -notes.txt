@@ -1062,7 +1062,7 @@ static void pattern(int n, int num)
 	pattern(n - 1, num);
 }
 
-// Driver code
+
 public static void main(String[] args)
 {
 	  System.out.println("enter the values of row for creating partten : ");
@@ -1254,6 +1254,12 @@ public static void main(String[] args)
 	pattern(n, 1, 1);
 }
 }
+
+
+09/11/2022
+
+white board round for interview ---->>>
+========================================
 
 
 
